@@ -14,7 +14,7 @@ body {
 
 header {
   height: 100vh;
-  background-color: #181825;
+  background-color: #101010;
   color: #fff;
 }
 
@@ -23,7 +23,7 @@ header {
   display: grid;
   align-content: center;
   /* padding: 3rem; */
-  width: 75%;
+  width: 80%;
   max-width: 1144px;
   margin: auto;
 }
